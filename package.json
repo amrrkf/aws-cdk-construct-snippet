@@ -1,7 +1,7 @@
 {
     "name": "aws-cdk-construct-snippet",
     "displayName": "AWS CDK Construct snippet",
-    "description": "To be changed later",
+    "description": "Code snippet for AWS CDK construct",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.47.0"
