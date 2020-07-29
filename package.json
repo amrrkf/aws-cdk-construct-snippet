@@ -3,6 +3,7 @@
     "displayName": "AWS CDK Construct snippet",
     "description": "Code snippet for AWS CDK construct",
     "version": "0.0.1",
+    "publisher": "amrrkf",
     "engines": {
         "vscode": "^1.47.0"
     },
