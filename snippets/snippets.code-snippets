@@ -1,1 +1,15 @@
-{}
+{
+  "Cdk construct": {
+    "prefix": ["construct", "cdk construct"],
+    "description": "A simple cdk construct",
+    "body": [
+      "import { Construct } from '@aws-cdk/core';",
+      "",
+      "export class ${0:ConstructName} extends Construct {",
+      "\tconstructor(scope: Construct, id: string) {",
+      "\t\tsuper(scope, id);",
+      "\t}",
+      "}"
+    ]
+  }
+}
