@@ -16,3 +16,7 @@ There are no hard requirements for this extension. However, it assumes you have 
 ### 0.0.1
 
 Initial release of `construct` snippet
+
+### 0.0.2
+
+Update readme with gif

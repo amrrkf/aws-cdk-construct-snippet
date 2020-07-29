@@ -2,7 +2,7 @@
     "name": "aws-cdk-construct-snippet",
     "displayName": "AWS CDK Construct snippet",
     "description": "Code snippet for AWS CDK construct",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "amrrkf",
     "repository": {
       "type": "git",
